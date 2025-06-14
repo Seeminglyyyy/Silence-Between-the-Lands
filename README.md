@@ -1,4 +1,6 @@
+------------------------------------------
 ##### Silence Between the Lands ######
+------------------------------------------
 
 -----------------------------------------------------------
 Genre: 2D Pixel Fantasy RPG / Atmospheric Adventure
@@ -6,8 +8,9 @@ Engine: Unity 2D URP
 Tech Stack: C#, Pixel Perfect Camera, GitHub integrated
 -----------------------------------------------------------
 
-
+-------------------------------
 ##### Game Description #####
+-------------------------------
 
 --------------------------------------------------------------
 "When the world shattered, sound was the first thing to die."
