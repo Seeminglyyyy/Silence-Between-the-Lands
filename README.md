@@ -5,6 +5,7 @@ Silence Between the Lands
 Genre: 2D Pixel Fantasy RPG / Atmospheric Adventure
 Engine: Unity 2D URP
 Tech Stack: C#, Pixel Perfect Camera, GitHub integrated
+Keys: 'K' for 'Slash'; 'W','A','S','D','Up Arrow Key','Down Arrow Key','Left Arrow Key', 'Right Arrow Key': For Movement
 
 
 -------------------------------
